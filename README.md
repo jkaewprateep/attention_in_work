@@ -34,7 +34,8 @@
 ```🐑💬 ➰ Each item can communication in both database query result sets and file communication format including .json file and .txt file return as format of web services or medium``` </br>
 
 [ JSON dataset ](https://github.com/jkaewprateep/json_data_set/blob/main/README.md) </br>
-[ Sample project randoms pickup ](https://github.com/jkaewprateep/random_pickup/blob/main/README.md) </br>
+[ Sample project - randoms pickup ](https://github.com/jkaewprateep/random_pickup/blob/main/README.md) </br>
+[ Sample project - randoms distributions ](https://github.com/jkaewprateep/random_distribution/blob/main/README.md) </br>
 
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/attention_in_work/blob/main/Dashboard%20design.png"> </br>
