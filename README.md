@@ -19,6 +19,8 @@
     <b> Picture from the Internet </b> </br>
 </p>
 
+🐨🎁🎵🎶 ```Sometimes we call the Opscodes messages to return the humanity exceptions, that is because the current process will have an alternative way to have information or process your information with the system requirements provided a description``` . </br>
+
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/attention_in_work/blob/main/error_n_exceptions.png"> </br>
     <b> Valid Ops code return from server, error and exceptions </b> </br>
