@@ -6,6 +6,7 @@
 ## 🧸💬 IT help support file - active help files or document pages types
 
 🐐💬 There are some IT requirements that he could read documents from a ```document helper reader``` with ```active links``` for working with ```time challenges with support users in the IT organization```, verification links both online and offline, and ```can share``` updated documents inside the department, placed on the ```Intranet links``` and safe and ```exported as document pages``` type ```.pdf``` . </br>
+🐑💬 ➰ ```If it cannot be read please use previous versions of the document helper reader``` . </br>
 
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/attention_in_work/blob/main/IT%20help%20document.png"> </br>
