@@ -30,8 +30,10 @@
 🐐💬 Continue study there is Opscode matrix preference and Opscode in transform communication, someone can reveal to you how we select active actions for clients and screens. </br>
 
 <p align="center" width="100%">
+    <img width="20%" src="https://github.com/jkaewprateep/attention_in_work/blob/main/image27.jpg">
     <img width="40%" src="https://github.com/jkaewprateep/attention_in_work/blob/main/error_n_exceptions.png"> </br>
     <b> Valid Ops code return from server, error and exceptions </b> </br>
+    <b> Picture from the Internet </b> </br>
 </p>
 
 ## 🧸💬 IT sample screen mapping file - Business attributes / Tabular / Timeline
