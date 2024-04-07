@@ -33,6 +33,8 @@
 🧸💬 ```Visualization``` and ```data matric mapping```, visualization can present with mapping functions matrixes into ```Power Point file``` when data matrix from server's message data extraction collection can store into a ```database file``` or ```Excel worksheet file```. </br>
 ```🐑💬 ➰ Each item can communication in both database query result sets and file communication format including .json file and .txt file return as format of web services or medium``` </br>
 
+[ JSON dataset ](https://github.com/jkaewprateep/json_data_set/blob/main/README.md) </br>
+
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/attention_in_work/blob/main/Dashboard%20design.png"> </br>
     <b> Sample screen mapping </b> </br>
