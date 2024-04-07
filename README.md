@@ -15,10 +15,12 @@
 
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/attention_in_work/blob/main/IT%20help%20document.png">
-    <img width="25%" src="https://github.com/jkaewprateep/attention_in_work/blob/main/image24.jpg">  </br>
+    <img width="25%" src="https://github.com/jkaewprateep/attention_in_work/blob/main/image24.jpg"> </br>
     <b> IT Help document </b> </br>
     <b> Picture from the Internet </b> </br>
 </p>
+
+[ Sticky notes ](https://github.com/jkaewprateep/Portfolio?tab=readme-ov-file#examples-of-document-works-in-google-professional-courses) 🥺💬 There are a lot of exercises assignments from Google courses, I haven't try to make it different but I present multiple of possible ways to finish  the tasks with goals acheivements. </br>
 
 [ Sample project - website ](https://github.com/jkaewprateep/RaycastMaze/blob/main/README.md) 👧💬 🎈 The help files can help file format, pages format, web site, and document. For example, you can place the GitHub or website into a help file and it supports using an Intranet website. </'br>
 
@@ -191,6 +193,7 @@ log_progress("ETL Job Ended")
 ## 🧸💬 IT networks incident diagram #1
 
 🦭💬 A simple ```IT networks incident diagram``` explains more than complex and too much ```information```, in case of retries timeout from one single gateway problem and connectivity link is ```priority by channel communications``` method such as ```stand-alone devices in high bandwidths communication connectivity```. </br> 
+🐑💬 ➰ 
 
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/attention_in_work/blob/main/Networks%20design%201.png"> </br>
