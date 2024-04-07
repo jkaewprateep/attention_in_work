@@ -193,7 +193,7 @@ log_progress("ETL Job Ended")
 ## 🧸💬 IT networks incident diagram #1
 
 🦭💬 A simple ```IT networks incident diagram``` explains more than complex and too much ```information```, in case of retries timeout from one single gateway problem and connectivity link is ```priority by channel communications``` method such as ```stand-alone devices in high bandwidths communication connectivity```. </br> 
-🐑💬 ➰ 
+🐑💬 ➰ Sometimes network priority is selected by communications method, Programmers are also aware of this priority since they are working with a development environment on their own laptops, IT network experts create routes table rules to perform network connectivity routing when sometimes it is about connection speed and protocols. Working with client communication applications development they need to unplug local cable connectivity to have the same connectivity with the target server network communication area. The routings table is configurable when you know of the network information inside the IT organization this is one example of how the IT organization tests you on the day you acquire the project and meets them at the office with your running test environments. </br>
 
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/attention_in_work/blob/main/Networks%20design%201.png"> </br>
