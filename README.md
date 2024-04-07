@@ -190,6 +190,8 @@ log_progress("ETL Job Ended")
 
 ## 🧸💬 IT networks incident diagram #1
 
+🦭💬 A simple ```IT networks incident diagram``` explains more than complex and too much ```information```, in case of retries timeout from one single gateway problem and connectivity link is ```priority by channel communications``` method such as ```stand-alone devices in high bandwidths communication connectivity```. </br> 
+
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/attention_in_work/blob/main/Networks%20design%201.png"> </br>
     <b> IT networks incident diagram </b> </br>
