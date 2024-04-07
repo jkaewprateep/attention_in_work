@@ -206,7 +206,7 @@ log_progress("ETL Job Ended")
 ## 🧸💬 IT networks incident diagram #2
 
 💃( 👩‍🏫 )💬 This methodology is the same at ```Student-Teacher``` copy master at some Universities, student requests their teacher to copy their class study materials when they forget to remove the transfer device from the machine they use for the projector, later they can perform IT networks access by the teacher IT network's authority. </br>
-🦤💬 I agree that photo-copy has the fast turn of class study materials when the instructors do not know but some students applied in their work environment after graduate but never be more now use Intranet. </br>
+🦤💬 I agree that photo-copy has the ```fast turn of class study materials``` when the instructors do not know but some students applied in their work environment after graduating from the school but never more now use ```Intranet``` . </br>
 
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/attention_in_work/blob/main/Networks%20design%202.png"> </br>
