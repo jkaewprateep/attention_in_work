@@ -10,6 +10,9 @@
 
 🦭💬 In an application submitted there are ```settings file``` may contained of therse file types ```application settings``` and ```users settings```, and they need to contain of ```readme file``` or ```descriptive readme file```. In example software library submit they need to include help that could be read with the method uses interaction with sample ```object browser```, ```readme file in installation wizard```, and ```explanation in the installment scripts```. 🐑💬 ➰ ```In the object explorer, you may place the correct matching intellisenses object and description to help users organize their program```. </br>
 
+👧💬 🎈 I found Opscode return description values but how do you organize of the Opscode values when there are multiple customer's requirements and system environment ⁉️ </br>
+🐑💬 ➰ The off-line document or object explorer document does not actively update and they had a version, replied from the server of valid Opscodes you are managing and the description is most correct and you have version string number server tries to manage for backward compatibilities then your organization had the maintained code internally. </br>
+
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/attention_in_work/blob/main/IT%20help%20document.png"> </br>
     <b> IT Help document </b> </br>
