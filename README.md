@@ -30,6 +30,8 @@
 
 ## 🧸💬 IT sample screen mapping file - Business attributes / Tabular / Timeline
 
+🧸💬 ```Visualization``` and ```data matric mapping```, visualization can present with mapping functions matrixes into ```Power Point file``` when data matrix from server's message data extraction collection can store into a ```database file``` or ```Excel worksheet file```. </br>
+
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/attention_in_work/blob/main/Dashboard%20design.png"> </br>
     <b> Sample screen mapping </b> </br>
