@@ -8,9 +8,16 @@
     <b> IT Help document </b> </br>
 </p>
 
-## 🧸💬 IT sample screen mapping file - Business attributes / Tabular / Time line
+## 🧸💬 IT sample screen mapping file - Business attributes / Tabular / Timeline
 
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/attention_in_work/blob/main/Dashboard%20design.png"> </br>
     <b> Attributes mapping graph </b> </br>
+</p>
+
+## 🧸💬 IT surveys document
+
+<p align="center" width="100%">
+    <img width="40%" src="https://github.com/jkaewprateep/attention_in_work/blob/main/Surveys.png"> </br>
+    <b> Surveys </b> </br>
 </p>
