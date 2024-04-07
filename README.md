@@ -24,6 +24,7 @@
 🐯💬 ```The object description from the API reflecting from the object browser is correct and the server return object message description is the most correct. ``` </br>
 
 [ Sample project - Counter clocks ](https://github.com/jkaewprateep/counter_clocks/blob/main/README.md) 🥺💬 The Opscode is built in the numericway because of actual code is in extensions format as common communications in Microsoft program and the OpsCods is selection preference matrix. </br>
+🐐💬 Continue study there is Opscode matrix preference and Opscode in transform communication, someone can reveal to you how we select active actions for clients and screens. </br>
 
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/attention_in_work/blob/main/error_n_exceptions.png"> </br>
