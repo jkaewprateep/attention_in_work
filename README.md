@@ -14,7 +14,8 @@
 🐑💬 ➰ The off-line document or object explorer document does not ```actively update``` and they had a version, replied from the server of valid Opscodes you are managing and the description is most correct and you have ```version string number``` server tries to manage for ```backward compatibilities``` then your organization had the maintained code internally. </br>
 
 <p align="center" width="100%">
-    <img width="40%" src="https://github.com/jkaewprateep/attention_in_work/blob/main/IT%20help%20document.png"> </br>
+    <img width="40%" src="https://github.com/jkaewprateep/attention_in_work/blob/main/IT%20help%20document.png">
+    <img width="25%" src="https://github.com/jkaewprateep/attention_in_work/blob/main/image24.jpg">  </br>
     <b> IT Help document </b> </br>
     <b> Picture from the Internet </b> </br>
 </p>
