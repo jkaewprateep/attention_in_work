@@ -8,6 +8,8 @@
 🐐💬 There are some IT requirements that he could read documents from a ```document helper reader``` with ```active links``` for working with ```time challenges with support users in the IT organization```, verification links both online and offline, and ```can share``` updated documents inside the department, placed on the ```Intranet links``` and safe and ```exported as document pages``` type ```.pdf``` . </br>
 🐑💬 ➰ ```If it cannot be read please use previous versions of the document helper reader``` . </br>
 
+🦭💬 In an application submitted there are ```settings file``` may contained of therse file types ```application settings``` and ```users settings```, and they need to contain of ```readme file``` or ```descriptive readme file```. In example software library submit they need to include help that could be read with the method uses interaction with sample ```object browser```, ```readme file in installation wizard```, and ```explanation in the installment scripts```. 🐑💬 ➰ ```In the object explorer, you may place the correct matching intellisenses object and description to help users organize their program```. </br>
+
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/attention_in_work/blob/main/IT%20help%20document.png"> </br>
     <b> IT Help document </b> </br>
