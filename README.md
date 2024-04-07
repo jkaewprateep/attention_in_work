@@ -19,11 +19,16 @@
     <b> Picture from the Internet </b> </br>
 </p>
 
+<p align="center" width="100%">
+    <img width="40%" src="https://github.com/jkaewprateep/attention_in_work/blob/main/error_n_exceptions.png"> </br>
+    <b> Valid Ops code return from server, error and exceptions </b> </br>
+</p>
+
 ## 🧸💬 IT sample screen mapping file - Business attributes / Tabular / Timeline
 
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/attention_in_work/blob/main/Dashboard%20design.png"> </br>
-    <b> Attributes mapping graph </b> </br>
+    <b> Sample screen mapping </b> </br>
 </p>
 
 ## 🧸💬 IT surveys document
