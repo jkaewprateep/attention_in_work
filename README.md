@@ -3,7 +3,7 @@
 💃( 👩‍🏫 )💬 A project design document, action plan documents such as ```IT networks migration risks```, ```impacts analysis```, ```software specifications environments```, ```application communication, and protocols``` are required to be submitted during the project ```implementation phase(s)```, or after the implementation phase as they are input of the next phase method and preparation for the ```next IT team engagement```. In the ```data information transparency``` policy, they subdivided the IT team into multiple teams and they had responses in different phases, in ```work communications and documents``` are trace logs and verified. One tool is training and IT project document because of working initially from code and read through backlog tracing is time-consuming but it is required by the ```project manager``` of the solution and sub-team communication is to verify that the method is ```repeatable and consistent``` . </br>
 🦤💬 ```Document formats```, number and timeline is an agreement of the IT's project because sometimes customers have maintenance contracts with the same IT implementing company and that occurs during the IT project's initial negotiation. In some IT's projects, we build active links response or interactive help support documents as in the figure below and it does not take much time to verify hyperlinks in the document and conversion. </br>
 
-## 🧸💬 IT help support file
+## 🧸💬 IT help support file - active help files or document pages types
 
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/attention_in_work/blob/main/IT%20help%20document.png"> </br>
