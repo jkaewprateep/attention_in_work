@@ -21,3 +21,17 @@
     <img width="40%" src="https://github.com/jkaewprateep/attention_in_work/blob/main/Surveys.png"> </br>
     <b> Surveys </b> </br>
 </p>
+
+## 🧸💬 IT networks incident diagram #1
+
+<p align="center" width="100%">
+    <img width="40%" src="https://github.com/jkaewprateep/attention_in_work/blob/main/Networks%20design%201.png"> </br>
+    <b> Surveys </b> </br>
+</p>
+
+## 🧸💬 IT networks incident diagram #2
+
+<p align="center" width="100%">
+    <img width="40%" src="https://github.com/jkaewprateep/attention_in_work/blob/main/Networks%20design%202.png"> </br>
+    <b> Surveys </b> </br>
+</p>
