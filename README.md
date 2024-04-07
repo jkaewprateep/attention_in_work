@@ -49,6 +49,8 @@
 
 ## 🧸💬 IT surveys document
 
+🐨🎁🎵🎶 ```An important process that the IT implementor team is not familiar with is a public survey when designing documents and customer contact to our contact center after a policy or campaign is launched, there is one method is to create a survey document using online channels and public channels. The output of the process is value information required transformation to data information process in the next steps``` . </br> 
+
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/attention_in_work/blob/main/Surveys.png"> </br>
     <b> Surveys </b> </br>
