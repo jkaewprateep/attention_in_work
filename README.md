@@ -215,6 +215,8 @@ log_progress("ETL Job Ended")
 
 ## 🧸💬 User story Stephen Hawking
 
+🧸💬 Favorite person #1 example of a user story telling. </br>
+
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/attention_in_work/blob/main/Stephen%20Hawkins.png"> </br>
     <b> User story </b> </br>
@@ -222,6 +224,8 @@ log_progress("ETL Job Ended")
 </p>
 
 ## 🧸💬 User story Rockey
+
+🧸💬 Favorite person #2 example of a user story telling. </br>
 
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/attention_in_work/blob/main/Rockey.png"> </br>
