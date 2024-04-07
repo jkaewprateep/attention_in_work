@@ -19,6 +19,8 @@
     <b> Picture from the Internet </b> </br>
 </p>
 
+[ Sample project - website ](https://github.com/jkaewprateep/RaycastMaze/blob/main/README.md) 👧💬 🎈 The help files can help file format, pages format, web site, and document. For example, you can place the GitHub or website into a help file and it supports using an Intranet website. </'br>
+
 🐨🎁🎵🎶 ```Sometimes we call the Opscodes messages to return the humanity exceptions, that is because the current process will have an alternative way to have information or process your information with the system requirements provided a description``` . </br>
 🐯💬 In the ```security process challenges``` the manager challenges the IT programming team that there is no OpsCode description return and the list of valid actions that need to be validated and maintained into separate documents for the project. That will require service requests when implementing a project and communication within the organization when the list may not be updated and drawbacks from the updated codes need to be updated by all teams and documents. The ```versions controls``` of documents and ```API``` are implemented and organized by a trackback logging system. </br>
 🐯💬 ```The object description from the API reflecting from the object browser is correct and the server return object message description is the most correct. ``` </br>
