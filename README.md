@@ -20,6 +20,8 @@
 </p>
 
 🐨🎁🎵🎶 ```Sometimes we call the Opscodes messages to return the humanity exceptions, that is because the current process will have an alternative way to have information or process your information with the system requirements provided a description``` . </br>
+🐯💬 In the ```security process challenges``` the manager challenges the IT programming team that there is no OpsCode description return and the list of valid actions that need to be validated and maintained into separate documents for the project. That will require service requests when implementing a project and communication within the organization when the list may not be updated and drawbacks from the updated codes need to be updated by all teams and documents. The ```versions controls``` of documents and ```API``` are implemented and organized by a trackback logging system. </br>
+🐯💬 ```The object description from the API reflecting from the object browser is correct and the server return object message description is the most correct. ``` </br>
 
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/attention_in_work/blob/main/error_n_exceptions.png"> </br>
